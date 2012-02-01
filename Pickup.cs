@@ -21,7 +21,7 @@ namespace WindowsGame1
 
     class Pickup
     {
-        ItemType type;
+        ItemType Type;
         Vector2 Position;
         List<Texture2D> Textures;
 

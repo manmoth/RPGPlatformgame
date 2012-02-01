@@ -49,10 +49,6 @@ namespace WindowsGame1
             npcEvent.InitializeNPC(npcType);
             base.Initialize(Texture, new Vector2(Position.X, Position.Y-70));
         }
-
-    
-
-
         public override void Draw(SpriteBatch batch, Vector2 ScreenOffset)
         {
             batch.Draw(Textures[0], Position-ScreenOffset, Color.White);
