@@ -25,35 +25,13 @@ namespace WindowsGame1
         /// </summary>
         public const Keys KJump = Keys.Up;
         /// <summary>
-        ///  KeyBoard: Swim down.
-        /// </summary>
-        public const Keys KSwimDown = Keys.Down;
-        /// <summary>
-        ///  KeyBoard: Swim up.
-        /// </summary>
-        public const Keys KSwimUp = Keys.Up;
-        /// <summary>
-        ///  KeyBoard: Swim left.
-        /// </summary>
-        public const Keys KSwimLeft = Keys.Left;
-        /// <summary>
-        ///  KeyBoard: Swim right.
-        /// </summary>
-        public const Keys KSwimRight = Keys.Right;
-        /// <summary>
-        ///  KeyBoard: Action.
+        ///  Keyboard: Action.
         /// </summary>
         public const Keys KAction = Keys.Enter;
-        /// <summary>
-        ///  KeyBoard: Suit.
-        /// </summary>
-        public const Keys KSuitUp = Keys.S;
         /// <summary>
         ///  KeyBoard: Menu Screen.
         /// </summary>
         public const Keys KMenu = Keys.Escape;
-
-
         /// <summary>
         ///  Gamepad: Walk left.
         /// </summary>
@@ -67,29 +45,9 @@ namespace WindowsGame1
         /// </summary>
         public const Buttons GJump = Buttons.X;
         /// <summary>
-        ///  Gamepad: Swim down.
-        /// </summary>
-        public const Buttons GSwimDown = Buttons.LeftThumbstickDown;
-        /// <summary>
-        ///  Gamepad: Swim up.
-        /// </summary>
-        public const Buttons GSwimUp = Buttons.LeftThumbstickUp;
-        /// <summary>
-        ///  Gamepad: Swim left.
-        /// </summary>
-        public const Buttons GSwimLeft = Buttons.LeftThumbstickLeft;
-        /// <summary>
-        ///  Gamepad: Swim right.
-        /// </summary>
-        public const Buttons GSwimRight = Buttons.LeftThumbstickRight;
-        /// <summary>
         ///  Gamepad: Action.
         /// </summary>
         public const Buttons GAction = Buttons.A;
-        /// <summary>
-        ///  Gamepad: Suit.
-        /// </summary>
-        public const Buttons GSuitUp = Buttons.Y;
         /// <summary>
         ///  Gamepad: Menu.
         /// </summary>
