@@ -127,8 +127,6 @@ namespace WindowsGame1
             LoadSong("7", "7");
 
             LoadSong("death", "death");
-
-
         }
 
         public SoundEffectInstance this[string soundName]

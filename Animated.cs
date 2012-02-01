@@ -13,6 +13,5 @@ namespace WindowsGame1
 
         void AnimationStep();
         void AnimationReset();
-
     }
 }
