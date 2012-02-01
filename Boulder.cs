@@ -27,8 +27,6 @@ namespace WindowsGame1
             cs = new CircleShape(2.5f,0);
             cs.Position = Position;
             
-
-
             body.CreateFixture(cs);
             body.BodyType = BodyType.Dynamic;
             
